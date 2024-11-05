@@ -15,7 +15,6 @@ def q1():
 
 
 def q2(): 
-  def q2(): 
   number= float(input ("Input a number: "))
   if number>0:
     print("Positive")
