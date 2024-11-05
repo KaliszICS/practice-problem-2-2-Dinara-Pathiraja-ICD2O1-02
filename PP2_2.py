@@ -29,7 +29,7 @@ def q3():
     print("Odd")
 
 def q4():
-  word= input('Type "Hello":')
+  word= input('Type "Hello": ')
   if word== "Hello":
     print("The word is Hello")
   else:
