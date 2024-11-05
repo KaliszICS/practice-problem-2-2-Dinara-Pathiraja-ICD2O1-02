@@ -1,9 +1,14 @@
-
+'''
+    Lesson: If and Else
+    Author: Mr. Kalisz
+    Date Created: October 15, 2024
+    Date Last Modified: October15, 2024
+'''
 
 
 def q1(): 
   integer = int(input ("Input an integer: "))
-  if(integer==5): 
+  if integer==5: 
     print ("The number is Five")
   else:
     print("The number is not Five")
@@ -12,21 +17,21 @@ def q1():
 def q2(): 
   def q2(): 
   number= float(input ("Input a number: "))
-  if(number>0):
+  if number>0:
     print("Positive")
   else: 
     print ("Negative")
 
 def q3(): 
   integer= int(input("Input an integer: "))
-  if (integer%2== 0):
+  if integer%2== 0:
     print("Even")
   else: 
     print("Odd")
 
 def q4():
   word= input('Type "Hello": ')
-  if(word== "Hello"):
+  if word== "Hello":
     print("The word is Hello")
   else:
     print("The word is not Hello")
