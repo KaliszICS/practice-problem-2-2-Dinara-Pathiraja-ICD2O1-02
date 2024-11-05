@@ -1,8 +1,8 @@
 '''
     Lesson: If and Else
-    Author: Mr. Kalisz
+    Author: Dinara Pathiraja
     Date Created: October 15, 2024
-    Date Last Modified: October15, 2024
+    Date Last Modified: Nov 05, 2024
 '''
 
 
